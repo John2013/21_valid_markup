@@ -1,6 +1,10 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Site of estate agency "Твой Дом"
+
+# How to open
+
+[Click](https://john2013.github.io/21_valid_markup/index.html)
 
 # Project Goals
 
